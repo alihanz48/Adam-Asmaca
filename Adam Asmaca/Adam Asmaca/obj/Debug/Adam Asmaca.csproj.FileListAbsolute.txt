@@ -8,3 +8,13 @@ C:\Users\Alihan Dursun\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csp
 C:\Users\Alihan Dursun\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.CoreCompileInputs.cache
 C:\Users\Alihan Dursun\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.exe
 C:\Users\Alihan Dursun\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.pdb
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe.config
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.pdb
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.AssemblyReference.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.GenerateResource.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.exe
+C:\Users\AlihanDursun\Desktop\Yeni klasör\5\Adam-Asmaca\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.pdb
